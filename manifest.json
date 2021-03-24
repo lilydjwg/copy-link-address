@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "0.1",
+  "author": "lilydjwg",
+  "applications": {
+    "gecko": {
+      "id": "copy-link-address@lilydjwg.me",
+      "strict_min_version": "87.0"
+    }
+  },
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "contextMenus",
+    "clipboardWrite"
+  ],
+  "icons": {
+    "48": "icons/copy-a.svg",
+    "96": "icons/copy-a.svg"
+  }
+}

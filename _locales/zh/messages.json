@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "复制链接地址",
+    "description": "Name of the extension."
+  },
+  
+  "extensionDescription": {
+    "message": "使用快捷键 \"a\" 来复制链接地址",
+    "description": "Description of the add-on."
+  },
+  
+  "contextMenuTitle": {
+    "message": "复制链接地址(&A)",
+    "description": ""
+  }
+
+}

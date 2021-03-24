@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Copy Link Address",
+    "description": "Name of the extension."
+  },
+  
+  "extensionDescription": {
+    "message": "Copy Link Address with accesskey \"a\"",
+    "description": "Description of the add-on."
+  },
+  
+  "contextMenuTitle": {
+    "message": "Copy Link &Address",
+    "description": ""
+  }
+
+}
