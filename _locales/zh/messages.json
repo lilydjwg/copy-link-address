@@ -12,6 +12,11 @@
   "contextMenuTitle": {
     "message": "复制链接地址(&A)",
     "description": ""
+  },
+
+  "contextMenuSelectionTitle": {
+    "message": "复制到选中文本的链接地址(&A)",
+    "description": ""
   }
 
 }

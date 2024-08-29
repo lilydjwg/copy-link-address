@@ -3,7 +3,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "0.1",
+  "version": "0.2",
   "author": "lilydjwg",
   "applications": {
     "gecko": {
@@ -19,6 +19,7 @@
   },
   "permissions": [
     "contextMenus",
+    "tabs",
     "clipboardWrite"
   ],
   "icons": {

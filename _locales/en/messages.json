@@ -12,6 +12,11 @@
   "contextMenuTitle": {
     "message": "Copy Link &Address",
     "description": ""
+  },
+
+  "contextMenuSelectionTitle": {
+    "message": "Copy Link &Address to this text fragment",
+    "description": ""
   }
 
 }
